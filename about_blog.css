@@ -1,0 +1,17 @@
+header{
+background-image: url('background_pic.jpg');
+}
+div{
+background-color: lightgrey;
+padding: 20px;
+margin: 20px;
+}
+p{
+border: 15px solid white;
+  padding: 20px;
+  margin: 20px;
+}
+b{
+outline-color: white;
+outline-style: dashed;
+}
